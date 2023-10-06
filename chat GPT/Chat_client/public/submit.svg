@@ -1,0 +1,82 @@
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:ns1="http://sozi.baierouge.fr" sodipodi:docname="buttons.svg" version="1.1" inkscape:version="0.48.2 r9819" width="204.3360322573576" height="82.95546543698026" style=""><rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="none" stroke="none" class="" style=""/>
+  <defs id="defs4">
+    <linearGradient id="linearGradient2997" y2="44" gradientUnits="userSpaceOnUse" x2="68" y1="-4" x1="68" inkscape:collect="always">
+      <stop id="stop2993" style="stop-color:#ffffff" offset="0"/>
+      <stop id="stop2999" style="stop-color:#ffffff" offset=".5"/>
+      <stop id="stop2995" style="stop-color:#666666" offset="1"/>
+    </linearGradient>
+    <filter id="filter3005" height="1.5" width="1.5" y="-0.25" x="-0.25" inkscape:label="Drop shadow">
+      <feGaussianBlur id="feGaussianBlur3007" result="blur" stdDeviation="1" in="SourceAlpha"/>
+      <feColorMatrix id="feColorMatrix3009" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.6 0 " type="matrix" result="bluralpha"/>
+      <feOffset id="feOffset3011" result="offsetBlur" dy="2" dx="0" in="bluralpha"/>
+      <feMerge id="feMerge3013">
+        <feMergeNode id="feMergeNode3015" in="offsetBlur"/>
+        <feMergeNode id="feMergeNode3017" in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="filter3019" height="1.5" width="1.5" y="-0.25" x="-0.25" inkscape:label="Drop shadow">
+      <feGaussianBlur id="feGaussianBlur3021" result="blur" stdDeviation="1" in="SourceAlpha"/>
+      <feColorMatrix id="feColorMatrix3023" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.6 0 " type="matrix" result="bluralpha"/>
+      <feOffset id="feOffset3025" result="offsetBlur" dy="2" dx="0" in="bluralpha"/>
+      <feMerge id="feMerge3027">
+        <feMergeNode id="feMergeNode3029" in="offsetBlur"/>
+        <feMergeNode id="feMergeNode3031" in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="filter3033" height="1.5" width="1.5" y="-0.25" x="-0.25" inkscape:label="Drop shadow">
+      <feGaussianBlur id="feGaussianBlur3035" result="blur" stdDeviation="1" in="SourceAlpha"/>
+      <feColorMatrix id="feColorMatrix3037" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.6 0 " type="matrix" result="bluralpha"/>
+      <feOffset id="feOffset3039" result="offsetBlur" dy="2" dx="0" in="bluralpha"/>
+      <feMerge id="feMerge3041">
+        <feMergeNode id="feMergeNode3043" in="offsetBlur"/>
+        <feMergeNode id="feMergeNode3045" in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <sodipodi:namedview id="base" bordercolor="#666666" inkscape:pageshadow="2" inkscape:window-y="-8" pagecolor="#ffffff" inkscape:window-height="706" inkscape:window-maximized="1" inkscape:zoom="3" inkscape:window-x="-8" inkscape:snap-bbox="true" showgrid="true" borderopacity="1.0" inkscape:current-layer="layer1" inkscape:cx="122.59518" inkscape:cy="40.739585" inkscape:window-width="1366" inkscape:pageopacity="0.0" inkscape:document-units="px">
+    <inkscape:grid id="grid2985" enabled="true" visible="true" snapvisiblegridlinesonly="true" type="xygrid" empspacing="4"/>
+  </sodipodi:namedview>
+  
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Green Submit Button Icon</dc:title>
+        <dc:date>2012-01-20T07:44:07</dc:date>
+        <dc:description>Green Submit Button</dc:description>
+        <dc:source>https://openclipart.org/detail/167272/green-submit-button-icon-by-gadgetscode</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>gadgetscode</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>button</rdf:li>
+            <rdf:li>green</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>submit</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+<g class="currentLayer" style=""><title>Layer 1</title><g id="layer1" inkscape:label="Layer 1" inkscape:groupmode="layer" class="">
+    <rect id="rect2987" style="fill-rule:evenodd;filter:url(#filter3005);stroke:#666666;stroke-width:.5;fill:#b3b3b3" rx="10" height="76.43724719001212" width="184.8771793229022" y="2.8340190593094974" x="10.526317618709982"/>
+    <rect id="rect2989" style="fill-rule:evenodd;filter:url(#filter3019);stroke:#666666;stroke-width:.5;fill:url(#linearGradient2997)" rx="10" height="76.43724719001212" width="184.8771793229022" y="2.8340190593094974" x="10.526317618709982"/>
+    <text id="text3001" style="filter:url(#filter3033);font-size:30px;font-family:Sans;letter-spacing:0px;line-height:125%;word-spacing:0px;fill:#000000" xml:space="preserve" y="72.5477418824613" x="34.67701348400067" sodipodi:linespacing="125%" transform="matrix(1.3205512808778728,0,0,1.910931179750303,-31.94186596994132,-75.4919281037444) ">
+      <tspan id="tspan3003" sodipodi:role="line" x="34.67701348400067" y="72.5477418824613" transform="matrix(0.9999999999999999,0,0,1,-24.38340998743877,-39.62460757724863) ">Submit</tspan>
+    </text>
+  </g></g></svg>

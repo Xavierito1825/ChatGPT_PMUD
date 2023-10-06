@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    
+    <title>Chat GPT</title>
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js">
+    </script>
+    <script src="chat_view_controller.js"></script>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+
+    <div id="app">
+      <div id="all_chats">
+        <form class="add_form">
+          <textarea id="add_title" rows="1" cols="1" placeholder="Title..."></textarea>
+          <img class="add_button"  src="public/add-button.svg" alt="send" />
+        </form>
+      </div>
+      <div id="chat_form"> 
+        <div id="chat_container"></div>
+      
+        <form class="form">
+          <textarea name="prompt" id="text" rows="1" cols="1" placeholder="Question..."></textarea>
+          <img class="submit_button" src="public/submit.svg" alt="send" />
+        </form>
+      </div>
+    </div>
+    
+  </body>
+</html>
